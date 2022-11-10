@@ -17,7 +17,7 @@
   /* Event form */
   #header {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-      url("../img/hrz-5.jpg");
+      url("https://www.tuacasa.com.br/wp-content/uploads/2020/11/sala-rustica-45.jpg");
     background-position: center;
     background-size: cover;
     height: 85vh;
@@ -133,7 +133,7 @@
   #location {
     height: 400px;
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-      url("../img/hrz-1.jpg");
+      url("https://elcomercio.pe/resizer/Jitf_O9kjaSxoIf5OPKyyvXYzqk=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JWZ5WB4B6NCEHPODNYHVZ7NLZU.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -228,7 +228,7 @@
   #cta {
     height: 300px;
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-      url("../img/hrz-6.jpg");
+      url("https://www.totalconstrucao.com.br/wp-content/uploads/2019/05/cobogo-3.jpeg");
     background-position: center;
     background-size: cover;
     display: flex;
