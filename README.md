@@ -1,2 +1,2 @@
-#Projeto Landing Page#
+#Projeto Landing Page
 https://joanadayse.github.io/landing-page/
