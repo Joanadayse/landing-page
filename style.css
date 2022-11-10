@@ -30,7 +30,7 @@
  
   
   #subscription-form {
-    background-color: var(--secondary);
+    background-color: var(--primary);
     padding: 2em;
     max-width: 22%;
   }
@@ -62,7 +62,7 @@
   }
   
   .btn {
-    background-color: var(--primary);
+    background-color: var(--secondary);
     color: var(--text-color);
     text-transform: uppercase;
     width: 100%;
@@ -77,11 +77,15 @@
   }
   
  
-  #key-benefits h2 {
+  #key-benefits h2{
     background-color: var(--secondary);
     text-align: center;
     padding: 2em;
-    font-weight: 500;
+    font-weight: bold;
+    color: var(--primary);
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
   }
 
   #key-benefits p{
@@ -201,6 +205,7 @@
   #detail-1 h3 {
     font-size: 3em;
     font-weight: 700;
+    color: var(--secondary);
   }
   
   .detail-description {
@@ -249,6 +254,8 @@
     margin: 0 auto;
     font-weight: 600;
     font-size: 1.2em;
+    background-color: var(--primary);
+    color: var(--secondary);
   }
   
  
@@ -278,18 +285,20 @@
   /* Mobile */
   @media (max-width: 450px) {
     /* Event form */
-    #event#subscription {
+    #header {
       flex-direction: column;
       height: auto;
     }
-  
-    #subscription {
-      padding: 2em;
+
+    #imagem{
+      width:250px ;
+      height:180px;
+      margin-bottom: 0.3em;
+      margin-top: 0.5em;
+      border-radius: 50%;
+
     }
   
-    #subscription h2 {
-      margin-bottom: 0.5em;
-    }
   
     #subscription-form {
       max-width: 70%;
